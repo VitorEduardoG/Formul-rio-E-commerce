@@ -79,11 +79,11 @@ Um projeto para criar uma página de login com linguagens de HTML e CSS.
  
 ## Resultado do Projeto
  
-![Começo do projeto](../Formulario_E-commerce/_img/p%C3%A1gina-inicial.png)
+![Começo do Projeto](../Formulario_E-commerce/_img/p%C3%A1gina-inicial.png)
 
-![Meio do projeto](../Formulario_E-commerce/_img/p%C3%A1gina-endere%C3%A7o.png)
+![Meio do Projeto](../Formulario_E-commerce/_img/p%C3%A1gina-endere%C3%A7o.png)
 
-![Resultado final do projeto](../Formulario_E-commerce/_img/p%C3%A1gina-final.png)
+![Resultado Final do Projeto](../Formulario_E-commerce/_img/p%C3%A1gina-final.png)
  
 ## Referências
  
