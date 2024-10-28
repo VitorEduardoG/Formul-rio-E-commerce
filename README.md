@@ -1,4 +1,4 @@
-# Formulário-E-commerce
+# Formulário-CadE-commerce
  
 Projeto criado como parte avaliativa da disciplina de Fundamentos de Desenvolvimento Web ministrada pelo professor Leonardo Rocha.
  
@@ -15,25 +15,82 @@ Um projeto para criar uma página de login com linguagens de HTML e CSS.
  
 ## Tecnologias
  
-* HTML5
+* HTML
 * CSS3
 * Git
 * Github
  
 ## Códigos
+
+## **HTML** _(form.html)_
  
+ < nav >: Usado para definir uma seção de navegação em um documento. Geralmente contém links para outras páginas ou seções do site.
+
+< header >: Representa o cabeçalho de um documento ou seção. Pode incluir o título, logo, menu de navegação, entre outros elementos.
+
+< h1 >: É um cabeçalho de nível 1, utilizado para o título mais importante de uma página ou seção. Apenas um < h1 > deve ser usado por página para melhorar a SEO.
+
+< ul >: Define uma lista não ordenada. Os itens da lista são marcados com um marcador (geralmente um ponto).
+
+< li >: Representa um item em uma lista. Pode ser usado tanto em listas ordenadas (< ol >) quanto não ordenadas (< ul >).
+
+< main >: Indica a parte principal do conteúdo de um documento. Deve conter o conteúdo central, excluindo cabeçalhos, rodapés e barras laterais.
+
+< form >: Usado para criar um formulário, que pode ser utilizado para coletar dados do usuário. Pode incluir elementos como campos de texto, botões e menus suspensos.
+
+< label >: Define um rótulo para um elemento de entrada (como < input >). Melhora a acessibilidade ao permitir que os usuários cliquem no rótulo para ativar o campo correspondente.
+
+< input >: Usado para criar campos de entrada de dados. Pode ter diferentes tipos, como texto, senha, botão, entre outros, dependendo do atributo type.
+
+< br >: Insere uma quebra de linha. É um elemento vazio, ou seja, não tem fechamento.
+
+< div >: Um contêiner genérico que agrupa outros elementos. Usado para aplicar estilos CSS ou para organizar o layout.
+
+## **CSS** _(main.css)_
+
+< margin>: Espaço externo ao redor de um elemento. Define a distância entre o elemento e outros elementos adjacentes.
+
+< padding>: Espaço interno entre o conteúdo de um elemento e sua borda. Controla o espaço dentro do elemento.
+
+< color >: Define a cor do texto de um elemento.
+
+< background-color >: Define a cor de fundo de um elemento.
+
+< font-family >: Especifica a fonte a ser usada para o texto. Pode incluir uma lista de fontes como fallback.
+
+< text-transform >: Controla a capitalização do texto. Por exemplo, pode transformar o texto em maiúsculas ou minúsculas.
+
+< list Style >: Estilo de lista que define como os itens de uma lista devem ser apresentados (por exemplo, marcadores, números).
+
+< position >: Controla como um elemento é posicionado na página. Pode ter valores como static, relative, absolute, fixed, ou sticky.
+
+< top > / < left >: Usados em elementos posicionados para definir a distância do topo ou da esquerda da área de visualização.
+
+< display >: Controla como um elemento é exibido. Valores comuns incluem block, inline, flex, e grid.
+
+< text-align >: Define o alinhamento do texto dentro de um elemento (por exemplo, left, right, center).
+
+< border-radius >: Define o arredondamento dos cantos de um elemento.
+
+< box-shadow >: Adiciona uma sombra ao redor de um elemento, permitindo que ele se destaque.
+
+< justify Content >: Usado em flexbox e grid para controlar como os itens são distribuídos ao longo do eixo principal
 
  
-## Resultado Final
+## Resultado do Projeto
  
-![Resultado final do projeto](img/resultado%20final.png)
+![Começo do projeto](../Formulario_E-commerce/_img/p%C3%A1gina-inicial.png)
+
+![Meio do projeto](../Formulario_E-commerce/_img/p%C3%A1gina-endere%C3%A7o.png)
+
+![Resultado final do projeto](../Formulario_E-commerce/_img/p%C3%A1gina-final.png)
  
 ## Referências
  
-* [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrivel no seu gitHub
+* [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrivel no seu gitHub.
 * [MDN](https://developer.mozilla.org/pt-BR/) - Usado para uma pesquisa aprofundada dos itens de CSS e HTML.
-* [AleloWiki](https://alelowiki.cenargen.embrapa.br/index.php/P%C3%A1gina_principal) - Site usado na pesquisa do código CSS "justify-content".
-* [Maujor](https://maujor.com/) - Site usado na pesquisa do código CSS "border-radius".
+* [AleloWiki](https://alelowiki.cenargen.embrapa.br/index.php/P%C3%A1gina_principal) - Site usado na pesquisa dos códigos CSS.
+* [Maujor](https://maujor.com/) - Site usado na pesquisa dos códigos CSS.
  
 ## Autor(a)
  
